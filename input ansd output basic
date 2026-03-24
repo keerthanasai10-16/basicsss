@@ -1,0 +1,5 @@
+x = input
+print(x)   #///// : python = python
+/////////
+y = int(input)
+print(type(y)) #/// 5 = < class ,int>
